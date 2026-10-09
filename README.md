@@ -4,6 +4,7 @@ zkouska káre
 ## nadpis 3. ##
 ### treti uroven
 *kár*
+**tucny text**
 
 - tohle
 - je
